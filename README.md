@@ -2,8 +2,8 @@ The House Price dataset provides valuable information about residential properti
 
 
 Columns:
-Index – A unique identifier for each property listing.
-Title – The headline or summary of the property listing.
+**Index** – A unique identifier for each property listing.
+**Title** – The headline or summary of the property listing.
 Description – A detailed textual description of the property.
 Amount (in lac) – The total price of the property in Indian rupees 
 Price (in rupees) – The per-square-foot price of the property.
